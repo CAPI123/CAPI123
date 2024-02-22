@@ -1,7 +1,15 @@
  
 
-# 💻 Tech Stack:
+# 💻 Tech Stack:Data Analyst 
 PowerBI
+Analytical Skills
+Programming and Data Manipulation Python
+Statistical Knowledge
+Data Visualization
+Database Skill
+Problem-Solving
+machine learning
+Excel
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CAPI123&theme=dark&hide_border=false)<br/>
