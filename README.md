@@ -1,7 +1,7 @@
  
 
 # 💻 Tech Stack:Data Analyst 
-PowerBI
+PowerBI <br/>
 Analytical Skills
 Programming and Data Manipulation Python
 Statistical Knowledge
