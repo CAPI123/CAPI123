@@ -2,13 +2,13 @@
 
 # 💻 Tech Stack:Data Analyst 
 PowerBI <br/>
-Analytical Skills
-Programming and Data Manipulation Python
-Statistical Knowledge
-Data Visualization
-Database Skill
-Problem-Solving
-machine learning
+Analytical Skills <br/>
+Programming and Data Manipulation Python <br/>
+Statistical Knowledge <br/>
+Data Visualization <br/>
+Database Skill <br/>
+Problem-Solving <br/>
+machine learning <br/>
 Excel
 # 📊 GitHub Stats:
 
